@@ -20,7 +20,3 @@ Detta är en enkel biblioteksapplikation skriven i Java som använder JDBC för 
 - MySQL-databas
 - JDBC-drivrutin för MySQL
 
-## Installation
-1. Klona detta repository:
-   ```bash
-   git clone <repository-url>
