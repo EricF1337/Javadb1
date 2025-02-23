@@ -1,9 +1,9 @@
-# Biblioteksapplikation
 
 ## Beskrivning
 Detta är en enkel biblioteksapplikation skriven i Java som använder JDBC för att kommunicera med en MySQL-databas. Applikationen tillåter användare att låna och lämna tillbaka böcker samt se sina lån. Administratörer kan lägga till och ta bort böcker från bibliotekets katalog.
 
 ## Funktioner
+
 ### För användare
 - Låna en bok (endast om den är tillgänglig)
 - Lämna tillbaka en bok
@@ -16,7 +16,6 @@ Detta är en enkel biblioteksapplikation skriven i Java som använder JDBC för 
 - Lista alla böcker och deras lånestatus
 
 ## Krav
-- Java 8 eller högre
 - MySQL-databas
 - JDBC-drivrutin för MySQL
 
